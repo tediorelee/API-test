@@ -1,14 +1,12 @@
 {
-  "posts": [
-    {
+  "posts":{
     "adminId": "1",
     "name": "天网",
     "phone": "admin",
     "email": "admin@micromooc.com",
     "department": "MMC-HOLDING",
     "title": "SystemAdmin"
-  }
-  ],
+  },
   "profile": {
     "name": "typicode"
   }
